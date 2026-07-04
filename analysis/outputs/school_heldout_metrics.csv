@@ -1,0 +1,4 @@
+scheme,R2_pooled,MAE_pooled,RMSE_pooled,R2_fold_mean,R2_fold_sd,MAE_fold_mean
+school_heldout,0.3973,8.3881,10.553,0.3965,0.0359,8.3881
+student_iid,0.4317,8.1462,10.2475,0.4315,0.0103,8.1462
+student_holdout_80_20,0.4228,8.1795,10.2619,,,

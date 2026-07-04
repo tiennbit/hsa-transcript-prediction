@@ -1,0 +1,5 @@
+target,sd,MAE,RMSE,R2,RMSE_over_SD
+P1 quantitative,7.65,4.49,5.639,0.452,0.737
+P2 qualitative,4.81,3.531,4.417,0.153,0.918
+P3 science,5.1,3.538,4.419,0.244,0.867
+Total,13.59,8.177,10.263,0.423,0.755

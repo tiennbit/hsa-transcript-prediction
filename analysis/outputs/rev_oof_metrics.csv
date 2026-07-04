@@ -1,0 +1,3 @@
+model,MAE,RMSE,R2
+full_with_protected,8.1462,10.2475,0.4317
+no_protected_attrs,8.2049,10.3106,0.4247

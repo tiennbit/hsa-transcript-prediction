@@ -1,0 +1,29 @@
+quantity,n,estimate,boot_sd,ci95_lo,ci95_hi,sig95_cluster,bonferroni_sig_cluster
+gender::Nam,23562,0.4391,0.2136,0.0473,0.863,True,
+gender::Nữ,33320,-0.3347,0.1997,-0.7101,0.0552,False,
+zone::KV1,10641,-1.1763,0.2583,-1.6655,-0.6936,True,
+zone::KV2,13911,0.2284,0.3116,-0.3841,0.8849,False,
+zone::KV2_NT,22492,0.6162,0.2766,0.0832,1.1728,True,
+zone::KV3,9838,-0.5416,0.4285,-1.3975,0.2838,False,
+prov::Thành phố Hà Nội,19998,-0.2004,0.3328,-0.8384,0.4428,False,False
+prov::Thành phố Hải Phòng,2281,-3.8402,0.6645,-5.3311,-2.6815,True,True
+prov::Tỉnh Bắc Giang,2161,1.9738,0.4454,1.1648,2.8389,True,True
+prov::Tỉnh Bắc Ninh,2115,-2.3654,0.5545,-3.4516,-1.3298,True,True
+prov::Tỉnh Hoà Bình,326,-2.0945,1.2656,-5.2019,-0.1029,True,False
+prov::Tỉnh Hà Nam,1129,-0.2465,0.7471,-1.685,1.1929,False,False
+prov::Tỉnh Hà Tĩnh,699,-2.3833,0.7892,-3.6303,-0.6257,True,False
+prov::Tỉnh Hưng Yên,2783,-0.6412,0.4865,-1.4524,0.355,False,False
+prov::Tỉnh Hải Dương,2879,0.5243,0.7195,-0.9806,1.9366,False,False
+prov::Tỉnh Lào Cai,258,4.0069,1.9,-0.2508,6.51,False,False
+prov::Tỉnh Nam Định,3653,1.7612,0.8936,-0.0026,3.482,False,False
+prov::Tỉnh Nghệ An,2356,-4.4211,0.5581,-5.4995,-3.3078,True,True
+prov::Tỉnh Ninh Bình,1816,4.1361,0.8017,2.3378,5.4831,True,True
+prov::Tỉnh Phú Thọ,1206,2.7246,0.9284,1.0209,4.6389,True,False
+prov::Tỉnh Quảng Ninh,1308,-1.1446,0.602,-2.4321,-0.1168,True,False
+prov::Tỉnh Sơn La,349,0.4052,1.6401,-4.5172,2.345,False,False
+prov::Tỉnh Thanh Hóa,3076,-1.2464,0.568,-2.5231,-0.2316,True,False
+prov::Tỉnh Thái Bình,3186,0.3604,0.5492,-0.7319,1.3082,False,False
+prov::Tỉnh Thái Nguyên,1236,-0.6339,1.5297,-3.896,1.9885,False,False
+prov::Tỉnh Tuyên Quang,312,1.2531,2.1942,-3.718,4.7011,False,False
+prov::Tỉnh Vĩnh Phúc,2283,6.4163,0.8084,4.7615,7.9686,True,True
+prov::Tỉnh Yên Bái,404,-0.5119,1.498,-3.7217,1.9331,False,False

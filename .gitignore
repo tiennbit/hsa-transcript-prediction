@@ -1,0 +1,6 @@
+# Student-level data must never be committed
+*.xlsx
+data_deid.csv
+*.npy
+__pycache__/
+.DS_Store

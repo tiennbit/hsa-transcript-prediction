@@ -1,0 +1,3 @@
+grp,n,MAE,bias_mean_err,RMSE,mean_actual,mean_pred
+Nam,4713,8.648,0.135,10.801,77.755,77.62
+Nữ,6664,7.848,-0.271,9.863,76.433,76.704

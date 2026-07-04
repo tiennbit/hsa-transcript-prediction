@@ -1,0 +1,51 @@
+table,subject,grade,value_corrected
+T3,Mathematics,10,0.513
+T3,Mathematics,11,0.538
+T3,Mathematics,12,0.528
+T3,Physics,10,0.465
+T3,Physics,11,0.475
+T3,Physics,12,0.397
+T3,Overall GPA,10,0.454
+T3,Overall GPA,11,0.483
+T3,Overall GPA,12,0.42
+T3,Chemistry,10,0.427
+T3,Chemistry,11,0.431
+T3,Chemistry,12,0.342
+T3,Biology,10,0.343
+T3,Biology,11,0.346
+T3,Biology,12,0.281
+T3,Foreign language,10,0.348
+T3,Foreign language,11,0.357
+T3,Foreign language,12,0.295
+T3,Geography,10,0.31
+T3,Geography,11,0.295
+T3,Geography,12,0.26
+T3,History,10,0.267
+T3,History,11,0.276
+T3,History,12,0.245
+T3,Civic education,10,0.248
+T3,Civic education,11,0.257
+T3,Civic education,12,0.217
+T3,Literature,10,0.245
+T3,Literature,11,0.241
+T3,Literature,12,0.168
+T4,Overall GPA,10,8.26 (0.60)
+T4,Overall GPA,11,8.40 (0.54)
+T4,Overall GPA,12,8.66 (0.46)
+T4,Mathematics,10,8.19 (0.93)
+T4,Mathematics,11,8.41 (0.86)
+T4,Mathematics,12,8.78 (0.70)
+T4,Literature,10,7.74 (0.74)
+T4,Literature,11,7.91 (0.74)
+T4,Literature,12,8.17 (0.73)
+T4,Physics,10,8.13 (0.95)
+T4,Physics,11,8.33 (0.89)
+T4,Physics,12,8.61 (0.78)
+T4,Chemistry,10,8.11 (0.96)
+T4,Chemistry,11,8.18 (0.95)
+T4,Chemistry,12,8.54 (0.80)
+T4,Foreign language,10,7.96 (1.00)
+T4,Foreign language,11,8.10 (0.95)
+T4,Foreign language,12,8.39 (0.88)
+model,holdout_R2,-,0.4230 (orig 0.4226)
+model,holdout_MAE,-,8.1741 (orig 8.1774)

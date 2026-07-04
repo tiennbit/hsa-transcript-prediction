@@ -1,0 +1,6 @@
+model,grouping,var_between,var_within,icc
+unconditional,school,21.5103,163.3421,0.1164
+unconditional,province,3.0881,182.1571,0.0167
+conditional_transcript,school,13.7301,92.6247,0.1291
+conditional_transcript,province,5.6698,101.4894,0.0529
+unconditional_mixedlm,school,30.855,163.5703,0.1587
