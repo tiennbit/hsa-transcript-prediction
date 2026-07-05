@@ -1,8 +1,8 @@
-# What High-School Transcripts Reveal About Standardized Competency Performance
+# Predicting Standardized Competency Performance from High-School Transcripts
 
 Analysis code and aggregate results for the paper:
 
-> Nguyen, B. T., Vuong, T. P. T., Ngo, T. T. T., & Nguyen, H.-N. *What High-School Transcripts Reveal About Standardized Competency Performance: Large-Scale Evidence on Predictive Alignment, Grade-12 Inflation, and Admission Equity from Vietnam.* Submitted to *Education and Information Technologies* (Springer).
+> Nguyen, B. T., Vuong, T. P. T., Ngo, T. T. T., & Nguyen, H.-N. *Predicting Standardized Competency Performance from High-School Transcripts: A Large-Scale Educational Data Mining Study on Predictive Alignment and Admission Equity in Vietnam.* Submitted to *Education and Information Technologies* (Springer).
 
 The study links three years of high-school transcripts to scores on Vietnam's HSA competency assessment (56,882 students, 1,124 province–school units, 49 provinces; 2024 cohort) and analyzes predictive alignment (cross-validated R² ≈ .43; school-held-out R² ≈ .40), transcript signal structure (mathematics dominance; grade-11 vs grade-12 fidelity), and admission equity (group-conditional signed-bias audit with school-clustered inference).
 
