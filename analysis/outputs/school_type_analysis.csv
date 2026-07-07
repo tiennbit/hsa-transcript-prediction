@@ -1,0 +1,6 @@
+school_type,n_schools,n_students,MAE,signed_bias,ci95_lo,ci95_hi,sig95
+specialized,46,3732,8.649,1.394,-0.143,2.958,False
+ethnic_boarding,24,224,7.048,0.176,-2.405,2.273,False
+private,6,37,9.012,-5.76,-14.413,-1.325,True
+mainstream,1048,52889,8.178,-0.11,-0.497,0.318,False
+R2_type_between_school,447,51716,,0.0077,,,
